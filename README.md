@@ -1,12 +1,15 @@
-### Hi there 👋
+Hi 👋 I'm Donat Kabashi
+==============================
 
-- 🔭 I’m currently working on two Flutter and one SwiftUI app
-- 🌱 I’m also advancing my **Flutter** and **SwiftUI** skills.
-- 💬 Ask me about anything related to iOS and Flutter Development
-- 💼 Let me know if you want to bring an app idea to life
-- 📫 Reach me at https://twitter.com/donatkabashi or https://www.linkedin.com/in/donat-kabashi-1955aa165/
-- 👨‍💻 Some apps I have developed:
+Senior Mobile App Developer who specializes in creating apps for the Apple ecosystem. I have developed more than 15 production-ready apps including Fintech, Utility, Lifestyle, Entertainment, Productivity, and more. I am extremely passionate about creating beautiful and unique apps with excellent user experience. I possess extensive experience working with startups, corporations, and directly with clients from various backgrounds.
 
+*   🖥️  See my portfolio at [donatkabashi.com](http://donatkabashi.com)
+*   ✉️  Contact me at [donatkabashi@gmail.com](mailto:donatkabashi@gmail.com)
+*   💼  Let me know if you want to bring an app idea to life
 
-
-![AppsPreview](https://user-images.githubusercontent.com/48384060/157037957-d408531c-0780-41ec-9d87-dd0b16f28464.png)
+<p align="left">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+</p>
